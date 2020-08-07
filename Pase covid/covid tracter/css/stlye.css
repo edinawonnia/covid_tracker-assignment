@@ -1,0 +1,29 @@
+.card{
+    /* add shadwos to create the card effect */
+    box-shadow: 0 8px 8px 0 rgb(168, 147, 147);
+    transition:0.3s;
+    border-radius: 10px;
+}
+#card{
+    box-shadow: 0 8px 8px 0 wheat;
+    transition:0.3s;
+    border-radius: 10px;  
+    
+}
+
+/* table */
+.me{
+    background-color: rgb(250, 164, 164);
+    color: red;
+}
+h6{
+    color: rgb(155, 154, 154);
+}
+
+.container{
+    padding: 2ps 16px;
+}
+
+h5{ 
+    text-align: center;
+}
